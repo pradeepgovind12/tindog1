@@ -1,0 +1,152 @@
+
+#title{
+  background-color: #ff4c68;
+}
+.heading1{
+  font-family: inherit;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+.content{
+  padding: 3% 15%;
+}
+body{
+  font-family: serif;
+}
+.navbar{
+  padding-bottom:4.5rem;
+}
+.navbar-brand{
+  font-family: inherit;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.title-img{
+  width: 60%;
+  transform: rotate(30deg);
+}
+#features{
+  padding: 7% 15%;
+  background-color: white;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+h3{
+  font-family: inherit;
+}
+p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color:#ff4c68;
+  color: #fff;
+}
+h2{
+  font-family:inherit;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.card-header1{
+  text-align: center;
+  color: white;
+
+}
+.body1{
+  text-align: center;
+}
+.btn1 {
+  background: #ff4c68;
+  background-image: -webkit-linear-gradient(top, #ff4c68, #ff4c68);
+  background-image: -moz-linear-gradient(top, #ff4c68, #ff4c68);
+  background-image: -ms-linear-gradient(top, #ff4c68, #ff4c68);
+  background-image: -o-linear-gradient(top, #ff4c68, #ff4c68);
+  background-image: linear-gradient(to bottom, #ff4c68, #ff4c68);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+
+  border: none;
+  font-family: inherit;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #ef8172;
+  background-image: -webkit-linear-gradient(top, #ef8172, #ef8172);
+  background-image: -moz-linear-gradient(top, #ef8172, #ef8172);
+  background-image: -ms-linear-gradient(top, #ef8172, #ef8172);
+  background-image: -o-linear-gradient(top, #ef8172, #ef8172);
+  background-image: linear-gradient(to bottom, #ef8172, #ef8172);
+  text-decoration: none;
+}
+.pricing-heading{
+  text-align: center;
+  font-style: inherit;
+  padding: 7% 15%;
+
+}
+.button-text{
+  color: white;
+}
+.tindog{
+  text-align: center;
+  padding: 7% 15%;
+}
+.footer-btn{
+  border: none;
+  background-color: #ff4c68;;
+  shape-margin: none;
+}
+#footer{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 3% 0;
+}
+.footer-btn{
+  padding: 1% 1%;
+}
+.design{
+  color: white;
+}
